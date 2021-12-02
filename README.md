@@ -40,6 +40,7 @@ to a Machine Learning model will probably yield different outputs at different t
 Being able to relate a model's metadata, packaging, as well as data used for training and experimentation 
 in its original state is a crucial best practice for Machine Learning production and regulatory compliance. 
 
+## Software Engineering vs Machine Learning Engineering in Production
 ![alt text](images/ml-eng.png)
 
 
