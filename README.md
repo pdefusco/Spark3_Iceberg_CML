@@ -50,5 +50,6 @@ This project provides an introductory example for using Iceberg with a Spark 3 s
 The Quickstart Notebook shows how to correctly launch a Spark Session with Iceberg, create an Iceberg table, 
 and query the data in its original state before a simple insert.
 
+To view the notebook, simply click on the "Iceberg_PySpark_Quickstart.ipynb" file from the Project Overview. 
 To execute the notebook, launch a new CML session and choose "JupyterLab" as Editor and make sure to enable Spark 3. 
 
